@@ -1,0 +1,59 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url("../images/40290080-open-air-hot-spring-spa-on-natural-background-in-sunset-time.jpg");
+      /* Full height */
+      height: 100%; 
+
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+
+h1 {
+    background-color: aliceblue;
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+}
+
+#instructions {
+    background-color: azure;
+    width: 50%; 
+    margin: 10px;  
+}
+
+p {
+    padding: 10px;
+}
+img {
+    width: 100px;
+    margin: 5px;
+}
+
+div {
+    background:linear-gradient(aliceblue, yellowgreen);
+    width: 30%;
+    padding: 5px;
+    
+}
+
+h4 {
+    background-color: aliceblue;
+    width: 30%;
+    padding: 5px;
+}
+
+#targetNum {
+    text-align: center;
+    padding: 5px;
+}
+
+#totalScore {
+    text-align: center;
+}
+
